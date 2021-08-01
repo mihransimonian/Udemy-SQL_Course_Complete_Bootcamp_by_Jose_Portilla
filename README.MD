@@ -1,13 +1,19 @@
 # Udemy SQL Course: 2021 Complete SQL Bootcamp From Zero to Hero in SQL
+
 Course from Udemy titled: **The Complete SQL Bootcamp 2021: Go from Zero to Hero**
 
 Weblink: <https://www.udemy.com/course/the-complete-sql-bootcamp/>
 
+**My certificate: <https://udemy-certificate.s3.amazonaws.com/pdf/UC-99d5009a-526c-492c-b42a-9efd685e5775.pdf>**
+
+
 ## Repository Description
+
 This repository contains the code files I produced during my tests in the course and gives an idea of what I've learned during this course.
 
 
 ## Course Description
+
 The below text has been copied from the Udemy website on 25th of July 2021.
 
 Learn how to use SQL quickly and effectively with this course!
@@ -37,11 +43,14 @@ I'll see you inside the course!
 
 Check out the free preview videos for more information!
 
-### Who this course is for:
-* Anyone interested in learning more about SQL, PostgreSQL, or basic data analysis!
+
+### Who this course is for
+
+Anyone interested in learning more about SQL, PostgreSQL, or basic data analysis!
 
 
 ## Course Overview
+
 I've added below table myself.
 
 | **Section** | **Title** |
